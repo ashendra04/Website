@@ -102,7 +102,7 @@ a:hover, a:focus, a:active {
  */
 h1, h2, h3, h4, h5, h6, .h01, .h02, .h03, .h04, .h05, .h06 {
 	font-family: "poppins-semibold", sans-serif;
-	color: #313131;
+	color: #23de12;
 	font-style: normal;
 	text-rendering: optimizeLegibility;
 	margin-bottom: 2.1rem;
@@ -450,7 +450,7 @@ img.pull-left {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #151515;
+	background: #009480;
 	z-index: 800;
 	height: 100%;
 	width: 100%;
@@ -1020,10 +1020,10 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ------------------------------------------------------------------- 
  */
 .grey-section {
-	background: #ebebeb;
+	background: #369ca3;
 }
 .grey-section p.lead {
-	color: #7d7d7d;
+	color: #5bdebf;
 }
 .section-intro {
 	max-width: 700px;
@@ -1041,7 +1041,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-bottom: 1.2rem;
 }
 .section-intro h5 {
-	color: #FF0077;
+	color: #0c9799;
 	font-size: 1.6rem;
 	line-height: 1.875;
 	margin-bottom: 0.3rem;
