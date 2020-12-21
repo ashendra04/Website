@@ -70,11 +70,11 @@ html, body {
 	height: 100%;
 }
 body {
-	background: #151515;
+	background: #35d0d0;
 	font-family: "lora-regular", serif;
 	font-size: 1.7rem;
 	line-height: 3rem;
-	color: #6e6e6e;
+	color: #64c12a;
 }
 
 /**
@@ -973,7 +973,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .section-intro h1 {
 	font-family: "poppins-semibold", serif;
 	font-size: 3.6rem;
-	color: #313131;
+	color: #54f554;
 	line-height: 1.25;
 	margin-bottom: 1.2rem;
 }
@@ -1189,12 +1189,12 @@ header .logo a {
 	border: none;
 }
 .main-navigation li a:hover {
-	color: #FF0077;
+	color: #0008ff;
 	padding-left: 1rem;
 }
 .main-navigation li.current > a {
 	background: none;
-	color: #FF0077;
+	color: #0008ff;
 }
 
 /**
@@ -2362,7 +2362,7 @@ header .logo a {
 	color: #FFFFFF;
 }
 .contact-info h5 {
-	color: #FF0077;
+	color: #FFFFFF;
 }
 
 /**
