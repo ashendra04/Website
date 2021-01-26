@@ -709,19 +709,19 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 .ss-error {
 	background-color: #ffd1d2;
-	color: #e65153;
+	color: #000000;
 }
 .ss-success {
-	background-color: #c8e675;
-	color: #758c36;
+	background-color: #7ce675;
+	color: #000000;
 }
 .ss-info {
 	background-color: #d7ecfb;
-	color: #4a95cc;
+	color: #000000;
 }
 .ss-notice {
 	background-color: #fff099;
-	color: #bba31b;
+	color: #000000;
 }
 
 /**
